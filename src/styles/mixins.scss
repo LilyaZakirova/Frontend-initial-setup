@@ -1,0 +1,14 @@
+$gray:#323f42;
+$white: #ffffff;
+$green: #00a87e;
+$light-blue: #019ce6;
+
+
+$header-color: $gray;
+$feedback-button-color: $green;
+$add-deal-button-color: $light-blue;
+
+@mixin size ($width, $height) {
+    width: $width;
+    height: $height;
+}

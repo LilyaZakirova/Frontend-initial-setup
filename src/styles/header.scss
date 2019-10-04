@@ -1,0 +1,44 @@
+.page-header {
+    @include size(100%, 56px);
+    display: flex;
+    justify-content: space-between;
+    background-color: $header-color;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+
+    &__left {
+        display: flex;
+    } 
+
+    &__right {
+        display: flex;
+    }
+
+    &__button {
+        border-radius: 18px;
+        height: 32px;
+
+        &--feedback {
+            width: 99px;
+            background-color: $feedback-button-color;
+        }
+
+        &--add {
+            width: 120px;
+            background-color: $add-deal-button-color;
+        }
+    
+}
+
+    .search-container {
+        &__input {
+            width: 240px;
+            height: 32px;
+            border-radius: 16px;
+            background-color: $white;
+        }
+    }    
+}

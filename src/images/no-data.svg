@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112">
+    <g fill="none" fill-rule="evenodd" transform="translate(26 26)">
+        <rect width="46" height="8" x="8" y="44" fill="#DDD" rx="1"/>
+        <rect width="37" height="8" x="8" y="32" fill="#DDD" rx="1"/>
+        <rect width="33" height="8" x="8" y="20" fill="#DDD" rx="1"/>
+        <rect width="28" height="8" x="8" y="8" fill="#DDD" rx="1"/>
+        <rect width="2" height="60" fill="#828282" rx="1"/>
+        <rect width="60" height="2" y="58" fill="#828282" rx="1"/>
+    </g>
+</svg>
